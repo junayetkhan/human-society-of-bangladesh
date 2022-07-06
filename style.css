@@ -93,7 +93,24 @@ body{
 .donate-group{
     display: flex;
     margin: 10px 100px;
+    margin-top: 80px;
 }
 /* .donate-plan-list{
     margin-top: 25px;
 } */
+.forth-section{
+    height: 700px;
+}
+.donate-box{
+    display: flex;
+    
+}
+.donate-item{
+    box-sizing:content-box;
+    margin: 0px 60px;
+    box-shadow: 10px 10px 5px  gray;
+}
+.donate-box h2{
+    background-color: cadetblue;
+    text-align: center;
+}
