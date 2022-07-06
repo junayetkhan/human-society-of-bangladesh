@@ -50,6 +50,7 @@ body{
     height: 700px;
     /* background-color: black; */
     
+    
 }
 .second-section h1 {
     font-size: 45px;
@@ -59,5 +60,24 @@ body{
 .second-section p {
     text-align: center;
     font-size: 18px;
+}
+
+.third-section{
+    height: 700px;
+    
+    
+}
+
+.list{
+    text-decoration: none;
+    list-style: none;
+    float: left;
+    margin: 35px;
+    font-size: 30px;
+    font-weight: 700px;
+    }
+.listone{
+    display: flex;
+    justify-content: center;
 }
 
