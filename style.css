@@ -65,7 +65,6 @@ body{
 .third-section{
     height: 700px;
     
-    
 }
 
 .list{
@@ -93,7 +92,7 @@ body{
 }
 
 .forth-section{
-    height: 700px;
+    height: 500px;
 }
 .donate-box{
     display: flex;
@@ -109,7 +108,8 @@ body{
     text-align: center;
 }
 .fifth-section{
-    height: 700px;
+    height: 500px;
+   
 }
 .fifth-section h1{
     font-size: 45px;
@@ -165,5 +165,9 @@ body{
     border: none;
     margin-left: -5px;
     color: #fff;
+}
+footer{
+    height: 250px;
+    background-color: rgb(0, 0, 0);
 }
 
